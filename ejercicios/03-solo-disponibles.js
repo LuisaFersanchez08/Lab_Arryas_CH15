@@ -20,7 +20,7 @@
 // ============================================================
 
 function soloDisponibles(menu) {
-  // Tu código aquí
+  
 }
 
 // No borres esta línea: es la puerta por donde el test usa tu función
